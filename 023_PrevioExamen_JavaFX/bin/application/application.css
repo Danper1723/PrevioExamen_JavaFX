@@ -1,0 +1,6 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#padre{
+	-fx-background-image: url(fondo.jpg);
+	-fx-background-repeat: no-repeat;
+	-fx-background-size: cover, auto;
+}
